@@ -17,4 +17,4 @@ Then, run script:
 Remember to update the log file path (or comment out), and rotate the log as data is appended to the file.
 
 ### View on website
-Visit my website at [www.jinet.us] for more info.
+Visit my website at [www.jinet.us](https://www.jinet.us/dev/scripts/bash-get-your-ip-address/) for more info.
