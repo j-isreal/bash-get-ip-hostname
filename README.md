@@ -18,3 +18,6 @@ Remember to update the log file path (or comment out), and rotate the log as dat
 
 ### View on website
 Visit my website at [www.jinet.us](https://www.jinet.us/dev/scripts/bash-get-your-ip-address/) for more info.
+
+ 
+Copyright &copy; 2024 Jacob Eiler, Isreal Consulting, LLC.  All rights reserved.
